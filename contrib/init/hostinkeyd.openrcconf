@@ -1,0 +1,26 @@
+# /etc/conf.d/bitcoinlegendd: config file for /etc/init.d/bitcoinlegendd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/bitcoinlegend/bitcoinlegend.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/bitcoinlegendd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/bitcoinlegendd.pid"
+
+# Where to write bitcoinlegendd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/bitcoinlegendd"
+
+# User and group to own bitcoinlegendd process
+#BITCOIND_USER="bitcoinlegend"
+#BITCOIND_GROUP="bitcoinlegend"
+
+# Path to bitcoinlegendd executable
+#BITCOIND_BIN="/usr/bin/bitcoinlegendd"
+
+# Nice value to run bitcoinlegendd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

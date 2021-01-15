@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoinlegend
+Comment=Bitcoinlegend P2P Cryptocurrency
+Comment[fr]=Bitcoinlegend, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitcoinlegend, eşten eşe kriptografik sanal para birimi
+Exec=bitcoinlegend-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoinlegend128
+MimeType=x-scheme-handler/bitcoinlegend;
+Categories=Office;Finance;

@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitcoinlegend_bg.qm</file>
+        <file alias="ca">locale/bitcoinlegend_ca.qm</file>
+        <file alias="cs">locale/bitcoinlegend_cs.qm</file>
+        <file alias="da">locale/bitcoinlegend_da.qm</file>
+        <file alias="de">locale/bitcoinlegend_de.qm</file>
+        <file alias="en">locale/bitcoinlegend_en.qm</file>
+        <file alias="en_US">locale/bitcoinlegend_en_US.qm</file>
+        <file alias="es">locale/bitcoinlegend_es.qm</file>
+        <file alias="fi">locale/bitcoinlegend_fi.qm</file>
+        <file alias="fr_FR">locale/bitcoinlegend_fr_FR.qm</file>
+        <file alias="hr">locale/bitcoinlegend_hr.qm</file>
+        <file alias="it">locale/bitcoinlegend_it.qm</file>
+        <file alias="ja">locale/bitcoinlegend_ja.qm</file>
+        <file alias="ko_KR">locale/bitcoinlegend_ko_KR.qm</file>
+        <file alias="nl">locale/bitcoinlegend_nl.qm</file>
+        <file alias="pl">locale/bitcoinlegend_pl.qm</file>
+        <file alias="pt">locale/bitcoinlegend_pt.qm</file>
+        <file alias="pt_BR">locale/bitcoinlegend_pt_BR.qm</file>
+        <file alias="ro_RO">locale/bitcoinlegend_ro_RO.qm</file>
+        <file alias="ru">locale/bitcoinlegend_ru.qm</file>
+        <file alias="sk">locale/bitcoinlegend_sk.qm</file>
+        <file alias="sv">locale/bitcoinlegend_sv.qm</file>
+        <file alias="tr">locale/bitcoinlegend_tr.qm</file>
+        <file alias="uk">locale/bitcoinlegend_uk.qm</file>
+        <file alias="zh_CN">locale/bitcoinlegend_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitcoinlegend_zh_TW.qm</file>
+    </qresource>
+</RCC>
